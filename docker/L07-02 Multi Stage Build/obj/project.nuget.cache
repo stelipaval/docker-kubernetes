@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nf5x7++EZhc=",
+  "success": true,
+  "projectFilePath": "/Users/stelicapaval/Desktop/Docker_Kubernetes/Docker/L07-02 Multi Stage Build/Code.csproj",
+  "expectedPackageFiles": [
+    "/Users/stelicapaval/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/stelicapaval/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/stelicapaval/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
