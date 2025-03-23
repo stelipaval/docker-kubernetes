@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Code
 build_property.RootNamespace = Code
-build_property.ProjectDir = /Users/stelicapaval/Desktop/StelPav/docker-kubernetes/Docker/L07-02 Multi Stage Build/
+build_property.ProjectDir = /Users/stelicapaval/Desktop/StelPav/docker-kubernetes/docker/L07-02 Multi Stage Build/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/stelicapaval/Desktop/StelPav/docker-kubernetes/Docker/L07-02 Multi Stage Build
+build_property.MSBuildProjectDirectory = /Users/stelicapaval/Desktop/StelPav/docker-kubernetes/docker/L07-02 Multi Stage Build
 build_property._RazorSourceGeneratorDebug = 
 
 [/Users/stelicapaval/Desktop/StelPav/docker-kubernetes/docker/L07-02 Multi Stage Build/Pages/Error.cshtml]
